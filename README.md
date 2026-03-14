@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
+<h1 align="center">⚡ Welcome to Aditya Sharma's Code Space</h1>
 <h3 align="center">Crafting Modern Web Interfaces • AI/ML Explorer • B.Tech CSE Student</h3>
 
 <p align="center">
