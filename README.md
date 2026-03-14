@@ -41,7 +41,8 @@
 </p>
 
 <p align="center">
-🌐 <b></b> https://adityaaaaportdev.vercel.app/ <br> | </b> adityasharma27120809@gmail.com
+<br/>
+<a href="https://adityaaaaportdev.vercel.app/"</a> · <code>adityasharma27120809@gmail.com</code>
 </p>
 
 ---
