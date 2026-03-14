@@ -42,7 +42,7 @@
 
 <p align="center">
 <br/>
-<a href="https://adityaaaaportdev.vercel.app/"</a> · <code>adityasharma27120809@gmail.com</code>
+<a href="https://adityaaaaportdev.vercel.app/">Aditya sharma</a> · <code>adityasharma27120809@gmail.com</code>
 </p>
 
 ---
