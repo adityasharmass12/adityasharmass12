@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=adityasharmass12&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=adityasharmass12&label=Profile%20Views&color=00FF7F&style=flat"/>
 <img src="https://img.shields.io/github/followers/adityasharmass12?label=Followers&style=flat"/>
 <img src="https://img.shields.io/github/stars/adityasharmass12?label=Stars&style=flat"/>
 </p>
@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 💻 B.Tech CSE Student passionate about technology  
-⚡ Exploring **Frontend Development and AI/ML**  
+⚡ Exploring **Modern Web Development and AI/ML**  
 🚀 Love building creative tech projects  
 🧠 Always learning new tools and improving skills  
 
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/adityasharmass12">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -42,7 +42,8 @@
 
 <p align="center">
 
-https://adityaaaaportdev.vercel.app | adityasharma27120809@gmail.com
+🌐 **Portfolio:** https://adityaaaaportdev.vercel.app  
+📧 **Email:** adityasharma27120809@gmail.com
 
 </p>
 
