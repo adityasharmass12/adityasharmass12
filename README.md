@@ -56,7 +56,7 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yadityasharmass12&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityasharmass12&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasharmass12&layout=compact&theme=tokyonight"/>
 
@@ -68,7 +68,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharmass12E&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasharmass12&theme=tokyonight"/>
 
 </p>
 
