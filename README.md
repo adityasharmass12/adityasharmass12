@@ -1,18 +1,109 @@
-<h1 align="center">Hi 👋, I'm Aditya sharma</h1>
-<h3 align="center">Building Skills, One Commit at a Time</h3>
+<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
+<h3 align="center">Frontend Developer • AI/ML Enthusiast • B.Tech CSE Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasharmass12&label=Profile%20views&color=0e75b6&style=flat" alt="adityasharmass12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasharmass12" alt="adityasharmass12" /></a> </p>
-
-- 🌱 I’m currently learning **DSA,Python,CSS,JS**
-
-- 📫 How to reach me **adityasharma27120809@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/iadityaaa12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iadityaaa12" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+%2F+ML+Explorer;Hackathon+Participant;Learning+and+Building+Every+Day" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+💻 B.Tech CSE Student passionate about technology  
+⚡ Exploring **Frontend Development and AI/ML**  
+🚀 Love building creative tech projects  
+🧠 Always learning new tools and improving skills  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/adityasharma1206/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/iadityaaa12/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:adityasharma27120809@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💻 Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwind,js,git,github,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+## 💡 Developer Philosophy
+
+<p align="center">
+
+Code • Learn • Build • Improve • Repeat 🚀
+
+</p>
+
+---
+
+<p align="center">
+⭐ Designed with passion by <b>Aditya Sharma</b>
+</p>
