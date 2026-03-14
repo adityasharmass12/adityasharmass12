@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
-<h3 align="center">Crafting Modern Web Interfaces • AI/ML Enthusiast • B.Tech CSE Student</h3>
+<h3 align="center">Crafting Modern Web Interfaces • AI/ML Explorer • B.Tech CSE Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Modern Web Enthusiast;AI+%2F+ML+Explorer;Hackathon+Participant;Learning+and+Building+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Modern+Web+Enthusiast;AI+%2F+ML+Explorer;Hackathon+Participant;Learning+and+Building+Every+Day" />
 </p>
 
 <p align="center">
