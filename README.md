@@ -41,10 +41,7 @@
 </p>
 
 <p align="center">
-
-🌐 **Portfolio:** https://adityaaaaportdev.vercel.app  
-📧 **Email:** adityasharma27120809@gmail.com
-
+🌐 <b></b> https://adityaaaaportdev.vercel.app/ <br> | </b> adityasharma27120809@gmail.com
 </p>
 
 ---
