@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Welcome to Aditya Sharma's Code Space</h1>
+<h1 align="center"> Welcome to Aditya Sharma's Code Space</h1>
 <h3 align="center">Crafting Modern Web Interfaces • AI/ML Explorer • B.Tech CSE Student</h3>
 
 <p align="center">
@@ -13,16 +13,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-💻 B.Tech CSE Student passionate about technology  
-⚡ Exploring **Modern Web Development and AI/ML**  
-🚀 Love building creative tech projects  
-🧠 Always learning new tools and improving skills  
+• B.Tech CSE Student passionate about technology  
+• Exploring **Modern Web Development and AI/ML**  
+• Love building creative tech projects  
+• Always learning new tools and improving skills  
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 💻 Languages & Tools
+## Languages & Tools
 
 <p align="center">
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -68,7 +68,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 
@@ -78,7 +78,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 
@@ -88,7 +88,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <p align="center">
 
@@ -98,11 +98,11 @@
 
 ---
 
-## 💡 Developer Philosophy
+## Developer Philosophy
 
 <p align="center">
 
-Code • Learn • Build • Improve • Repeat 🚀
+Code • Learn • Build • Improve • Repeat 
 
 </p>
 
